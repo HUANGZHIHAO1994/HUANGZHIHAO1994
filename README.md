@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/HUANGZHIHAO1994/count.svg" />
 </p>
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUANGZHIHAO1994&layout=compact)](https://github.com/HUANGZHIHAO1994)
