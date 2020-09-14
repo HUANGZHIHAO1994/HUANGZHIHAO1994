@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitor counter](https://komarev.com/ghpvc/?username=HUANGZHIHAO1994&label=VistorCounter)
 
 <!--
 **HUANGZHIHAO1994/HUANGZHIHAO1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,10 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=HUANGZHIHAO1994&theme=tokyonight)](https://github.com/HUANGZHIHAO1994)
+
+<!--
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HUANGZHIHAO1994/count.svg" />
+</p>
+-->
